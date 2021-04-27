@@ -1,3 +1,3 @@
 # Simple-Snake-Game
 
-Created a simple snake game using HTML.
+This is a simple snake game made using HTML. Control the snake using the arrow keys to grow larger in size, avoid hitting yourself. 
