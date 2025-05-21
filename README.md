@@ -1,6 +1,20 @@
-## General Info
+# Snake Game
+
+## 📝 Description
 
 This is a simple Snake Game made using HTML
+
+## 🚀 Features
+
+- Classic Snake Gameplay
+- Smooth Animations & Movement
+- Score Tracking
+
+## 🛠️ Technologies Used
+
+- HTML
+
+## 📦 Installation
 
 ## How to play
 ```
